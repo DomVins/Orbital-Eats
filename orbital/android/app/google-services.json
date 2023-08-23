@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323170115473",
+    "project_id": "orbital-aaf9b",
+    "storage_bucket": "orbital-aaf9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323170115473:android:b2cb5aaf0e11aae5b7c430",
+        "android_client_info": {
+          "package_name": "com.vinstech.orbital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323170115473-ahrlq2vt11c2iue5am4fqg0sklmqopkh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0qhq88MaiZD3UlK5duLSTxEPLX2VApfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323170115473-ahrlq2vt11c2iue5am4fqg0sklmqopkh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
